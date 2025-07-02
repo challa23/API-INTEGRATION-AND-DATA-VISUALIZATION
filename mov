@@ -1,0 +1,6 @@
+course=('my is mokshith')
+print(course.upper)
+print(course.lower)
+print(course.middle)
+print(course.find)
+print(course.title)
